@@ -13,7 +13,7 @@ The project explores how statistical language models can identify a text's langu
 
 ---
 
-## Author
+### Author
 
 Developed by **Dicle Öztürk**  
 dicle@lucitext.io
